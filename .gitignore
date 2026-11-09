@@ -1,0 +1,15 @@
+# Dataset
+data/
+
+# Virtual environment
+.venv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS specific files
+.DS_Store
