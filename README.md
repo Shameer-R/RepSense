@@ -27,8 +27,8 @@ Features include:
 - [X] Analyze exercise distribution and missing values
 - [X] Explore subjects, sessions, and sensor positions
 - [X] Visualize sensor readings
-- [ ] Implement sliding windows
-- [ ] Extract features from sensor readings
+- [X] Implement sliding windows
+- [X] Extract features from sensor readings
 - [ ] Train baseline model
 - [ ] Train and evaluate Random Forest
 - [ ] Train a deep learning model
