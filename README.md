@@ -29,7 +29,7 @@ Features include:
 - [X] Visualize sensor readings
 - [X] Implement sliding windows
 - [X] Extract features from sensor readings
-- [ ] Train baseline model
+- [X] Train baseline model
 - [ ] Train and evaluate Random Forest
 - [ ] Train a deep learning model
 - [ ] Compare performance among models
